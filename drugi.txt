@@ -1,3 +1,4 @@
 pierwsza linijka 3:16
 zmiana 6:44
 zmiana 13:5
+zmian 6:45 na github
