@@ -2,3 +2,5 @@ pierwsza linijka 3:16
 zmiana 6:44
 zmiana 13:5
 zmian 6:45 na github
+zmiana jest na master na git a 
+github ustawiony byl przez - u na main ciekawe gdzie to sie znajdzie jesli pojdzie
