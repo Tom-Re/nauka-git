@@ -1,2 +1,1 @@
 pierwsza linijka 3:16
-ten plik zostal przywrocony z poprzedniego commita.
