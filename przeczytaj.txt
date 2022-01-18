@@ -1,0 +1,1 @@
+cofam sie w git do wczesniejszego commita tworze zmiane: tworze plik i zapisuje commit w stworzonym nowym branch przez git switch -c 
