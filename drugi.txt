@@ -1,6 +1,2 @@
 pierwsza linijka 3:16
-zmiana 6:44
-zmiana 13:5
-a teraz zmiana na galezi main 
-zmiana na githubie
-2 a teraz bedzie konflikt?
+ten plik zostal przywrocony z poprzedniego commita.
