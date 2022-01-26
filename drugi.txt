@@ -1,2 +1,1 @@
 pierwsza linijka 3:16
-a teraz pisze po wykonaniu revert
