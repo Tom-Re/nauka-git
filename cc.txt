@@ -1,2 +1,2 @@
 Trzeci Commit
-Czwarty commit 
+Czwarty commit i szosty commit
