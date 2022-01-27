@@ -1,2 +1,3 @@
 Trzeci Commit
 Czwarty commit i szosty commit
+Commit 7 Zmiana przed wykonaniem checkout do commitu 1git 

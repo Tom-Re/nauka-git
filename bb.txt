@@ -1,3 +1,4 @@
 Drugi commit
 Czwarty commit
 Piaty commit
+Commit 7 Zmiana przed wykonaniem checkout do commitu 1
