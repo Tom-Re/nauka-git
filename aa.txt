@@ -1,1 +1,2 @@
 Pierwszy commit 
+zmiana po wykonaniu git checkout commit1, switch galazka1
