@@ -1,1 +1,2 @@
 Drugi commit
+Czwarty commit
